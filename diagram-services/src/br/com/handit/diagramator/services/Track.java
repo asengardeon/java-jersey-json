@@ -1,4 +1,4 @@
-package com.services;
+package br.com.handit.diagramator.services;
 
 public class Track {
 	
